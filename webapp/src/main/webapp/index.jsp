@@ -1,2 +1,2 @@
 <h1> Hi Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> initilizing ansible deploying through tomcat</h2>
+<h2> tohrough docker deployment is working fine</h2>
